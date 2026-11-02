@@ -1,38 +1,94 @@
 # Muhammad Bin Qasim
 
-**Web Developer**
+**Web Developer | Modern Websites · E-commerce · Web Applications**
 
-I build responsive websites, e-commerce experiences, and modern web applications with a focus on clean interfaces, practical functionality, and polished user experiences.
+I build responsive websites, e-commerce experiences, and modern web applications that combine thoughtful design with practical functionality.
 
-## About Me
+My focus is creating polished, user-friendly digital experiences — from fashion storefronts and business websites to interactive applications.
 
-- Building front-end and back-end web projects
-- Focused on responsive design, usability, and real-world functionality
-- Interested in e-commerce, business websites, and modern web applications
-- Currently expanding my skills through hands-on projects
-- Open to freelance projects and development opportunities
+**Currently:** Building real-world projects, expanding my development skills, and open to freelance work and web development opportunities.
 
-## Tech I Work With
+**[View My Portfolio](https://pobgare.github.io/portfolio/)**
 
-`HTML` `CSS` `JavaScript` `TypeScript` `Next.js` `React` `Tailwind CSS` `Supabase` `PostgreSQL` `Git` `GitHub`
+---
 
-## Selected Projects
+## Featured Projects
 
-### IRONFORGE
-Performance-focused fitness website featuring multiple pages, custom interactions, Canvas and WebGL effects.
+### 01. ZIPSTERS — Fashion E-commerce
 
-### LUMÉA
-Luxury beauty studio website with responsive layouts, service presentation, bridal content, and appointment interactions.
+A premium fashion storefront built around a custom Shopify theme, featuring editorial product presentation, responsive layouts, interactive shopping experiences, and a standalone Vercel demo.
 
-### NEXORA
-Interactive e-commerce storefront with live search, filters, sorting, product details, persistent cart, and demo checkout.
+**Technologies:** Shopify Liquid, HTML, CSS, JavaScript
 
-### ShawtySlayz
-Fashion e-commerce experience built with Next.js, React and TypeScript, including product browsing, cart and conceptual checkout flows.
+[Live Demo](https://zipsters-demo.vercel.app/) · [GitHub Repository](https://github.com/PobGare/zipsters)
 
-### TechNova
-Technology institute website featuring an interactive curriculum map, dynamic schedules, program dialogs, FAQs and application flows.
+### 02. ShawtySlayz — Fashion Storefront
 
-## What I'm Working Toward
+A modern fashion e-commerce experience with responsive product browsing, shopping cart functionality, and a conceptual checkout flow.
 
-Building stronger real-world projects, working with businesses and clients, and growing as a professional web developer.
+**Technologies:** Next.js, React, TypeScript
+
+[Live Demo](https://shawtyslayz.vercel.app/) · [GitHub Repository](https://github.com/PobGare/shawtyslayz)
+
+### 03. IRONFORGE — Fitness Website
+
+A multi-page fitness website with bold visual design, interactive program previews, custom animations, and immersive Canvas and WebGL effects.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Website](https://pobgare.github.io/ironforge/) · [GitHub Repository](https://github.com/PobGare/ironforge)
+
+### 04. LUMÉA — Luxury Beauty Studio
+
+An elegant beauty studio website featuring responsive layouts, service showcases, bridal content, and appointment-focused interactions.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Website](https://pobgare.github.io/lumea/) · [GitHub Repository](https://github.com/PobGare/lumea)
+
+### 05. NEXORA — Interactive Storefront
+
+A functional e-commerce demo with live product search, category filtering, price sorting, product details, persistent shopping cart, and simulated checkout.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Demo](https://pobgare.github.io/nexora/) · [GitHub Repository](https://github.com/PobGare/nexora)
+
+### 06. TechNova — Technology Education
+
+A responsive technology institute website featuring interactive curriculum exploration, dynamic schedules, program information, FAQs, and application interactions.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Website](https://pobgare.github.io/technova/) · [GitHub Repository](https://github.com/PobGare/technova)
+
+---
+
+## Technologies & Tools
+
+**Front-end:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+
+**E-commerce:** Shopify, Liquid
+
+**Back-end & Data:** Supabase, PostgreSQL
+
+**Development Tools:** Git, GitHub, VS Code
+
+---
+
+## What I Focus On
+
+- Building responsive, accessible websites that work across devices.
+- Developing modern storefronts and interactive web experiences.
+- Writing maintainable code and improving real-world functionality.
+- Continuously learning through hands-on development projects.
+
+---
+
+## Let's Connect
+
+I'm open to freelance projects, collaborations, internships, and web development opportunities.
+
+**[Portfolio](https://pobgare.github.io/portfolio/)** · **[GitHub](https://github.com/PobGare)**
+
+*Building better digital experiences, one project at a time.*
